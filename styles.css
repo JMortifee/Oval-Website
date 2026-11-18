@@ -17,7 +17,7 @@
   --grey-100: #F5F5F5;
   --white: #FFFFFF;
 
-  --font-heading: 'Cormorant SC', 'Georgia', serif;
+  --font-heading: 'Plus Jakarta Sans', 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
 
   --radius: 10px;
